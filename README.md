@@ -1,2 +1,3 @@
 github_flow_test
-- dev1
+- feat1
+- dev2
